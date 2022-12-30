@@ -1,4 +1,4 @@
 # SKOPGame
-Empty shell of the animation shell used for making simple games
+Simple fighting game in development
 
-TODO! Move over important classes from previous projects to organize and clean the project
+Created by Saniru Kularatne and Owen Pringle
